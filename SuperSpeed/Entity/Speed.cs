@@ -12,6 +12,7 @@ namespace SuperSpeed
         public const string ACCELERATE_TASK_ID = "AccelerateTaskId";
         public const string LOCAL_SUB_FILE_INDEX = "LocalSubFileIndex";
         public const string USER_DATA = "UserData";
+
         public string LocalTaskId { get; set; }
         public string AccelerateTaskId { get; set; }
         public string LocalSubFileIndex { get; set; }
