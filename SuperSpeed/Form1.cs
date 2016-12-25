@@ -141,6 +141,5 @@ namespace SuperSpeed
             return sqliteHelper.ExecuteNonQuery(allUpdateSql.ToString());
 
         }
-
     }
 }
